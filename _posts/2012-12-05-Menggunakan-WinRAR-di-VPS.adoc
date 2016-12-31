@@ -3,7 +3,7 @@
 :published_at: 2012-12-05
 Tutorial ini diimplementasikan pada VPS Linux, VPS yang saya maksud di sini adalah VPS yang hanya bisa diremote dengan `ssh` (non Desktop). Kalau VPS anda bisa diremote menggunakan software seperti VNC, saya sarankan sebaiknya anda tidak perlu melanjutkan untuk membaca tutorial ini :D.
 
-Seperti yang diketahui bahwa software `WinRAR` bukanlah software Open Source, anda memang bisa menginstallnya misal di OS Ubuntu dengan command `sudo apt-get install rar`, akan tetapi itu hanya bisa digunakan untuk `mengekstrak` file saja. Agar anda bisa mengompressnya, anda harus membeli link:http://www.rarlab.com/shop2rarlab-whpanda.php?prod=winrar&x-source=winraronly[lisensi]nya :D.
+Seperti yang diketahui bahwa software `WinRAR` bukanlah software Open Source, anda memang bisa menginstallnya misal di OS Ubuntu dengan command `sudo apt-get install rar`, akan tetapi itu hanya bisa digunakan untuk `mengekstrak` file saja. Agar anda bisa mengompressnya, anda harus membeli link:http://www.rarlab.com/shop2rarlab-whpanda.php?prod=winrar&x-source=winraronly[lisensi, window="_blank"]nya :D.
 
 Tidak perlu khawatir, karena link:http://lovian.github.io[di sini] anda tidak perlu membeli lisensinya :D, cukup dengan mendownload 2 file `rar` dan `unrar`.
 
