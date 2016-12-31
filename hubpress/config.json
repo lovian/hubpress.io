@@ -11,10 +11,10 @@
   },
   "socialnetwork": {
     "email": "",
-    "twitter": "twitter.com/lofian",
-    "facebook": "www.facebook.com/lofian",
-    "instagram": "www.instagram.com/lofi_an",
-    "github": "lovian.github.io"
+    "twitter": "https://twitter.com/lofian",
+    "facebook": "https://www.facebook.com/lofian",
+    "instagram": "https://www.instagram.com/lofi_an",
+    "github": "https://lovian.github.io"
   },
   "theme": {
     "name": "ghostium"
