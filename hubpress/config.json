@@ -9,7 +9,13 @@
     "description": "Blog Lovian",
     "postsPerPage": "5"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "",
+    "twitter": "lofian",
+    "facebook": "lofian",
+    "instagram": "lofi_an",
+    "github": "lovian"
+  },
   "theme": {
     "name": "casper"
   }
