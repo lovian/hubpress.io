@@ -4,7 +4,13 @@
     "repositoryName": "lovian.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Lovian",
+    "description": "Blog Lovian",
+    "postsPerPage": "5"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
