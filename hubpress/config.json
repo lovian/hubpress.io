@@ -5,9 +5,10 @@
     "branch": "master"
   },
   "site": {
-    "title": "@lofian",
-    "description": "Sekedar catatan aja...",
-    "postsPerPage": "5"
+    "title": "Lovian",
+    "description": "Share anything with anyone",
+    "postsPerPage": "5",
+    "disqus": "lofian"
   },
   "socialnetwork": {
     "email": "",
