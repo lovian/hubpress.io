@@ -1,4 +1,0 @@
-= Streaming Video di OSMC
-:hp-tags: Raspberry, OSMC,
-
-Di postingan pertama ini saya akan sharing tentang cara streaming Video di link:https://osmc.tv/[OSMC^]. 
