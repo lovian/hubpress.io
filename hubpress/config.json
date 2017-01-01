@@ -7,6 +7,7 @@
   "site": {
     "title": "Lovian",
     "description": "Share anything with anyone",
+    "cover": "https://lovian.github.io/images/background.jpg",
     "postsPerPage": "5",
     "disqus": "lofian"
   },
